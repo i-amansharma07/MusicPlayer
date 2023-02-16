@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#ffdf00</color>
+    <color name="colorGreen">#1FCC79</color>
+
+    <!-- override default color for TextInputLayout -->
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">#FFEA00</color>
+
+    <!-- self made -->
+    <color name="primary">#212121</color>
+    <color name="primary_dark">#000000</color>
+    <color name="primary_light">#FFFFFFFF</color>
+
+
+    <color name="grey">#888888</color>
+
+
+    <color name="app_bg">#EAEBF5</color>
+
+
+    <!-- text colors -->
+    <color name="textColor">#2E3E5C</color>
+
+    <color name="secondary">#e0e0e0</color>
+    <color name="secondary_dark">#aeaeae</color>
+    <color name="secondary_light">#ffffff</color>
+    <color name="red">#DC1442</color>
+
+    <color name="transparent">#002E3E5C</color>
+
+
+</resources>
